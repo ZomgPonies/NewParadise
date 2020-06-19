@@ -80,6 +80,13 @@
 			to_chat(usr, "You lack the ability to manipulate the lock.")
 
 
+
+/obj/item/clothing/mask/muzzle/gag
+	name = "gag"
+	desc = "Stick this in their mouth to stop the noise."
+	icon_state = "gag"
+	w_class = WEIGHT_CLASS_TINY
+
 /obj/item/clothing/mask/muzzle/tapegag
 	name = "tape gag"
 	desc = "MHPMHHH!"
